@@ -1,8 +1,9 @@
-debathena-sendbug (10.1.1-0debathena1) UNRELEASED; urgency=low
+debathena-sendbug (10.1.1-0debathena1) unstable; urgency=low
 
   * Add VERSION file
+  * Add git-buildpackage configuration
 
- -- Victor Vasiliev <vasilvv@mit.edu>  Mon, 17 Mar 2014 04:12:17 -0400
+ -- Victor Vasiliev <vasilvv@mit.edu>  Mon, 17 Mar 2014 04:13:06 -0400
 
 debathena-sendbug (10.1-0debathena1) unstable; urgency=low
 
